@@ -1,0 +1,70 @@
+.product-header{
+  background-color: aquamarine;
+  text-align: center;
+  height: 100px;
+  margin-top: 0px;
+}
+.product-container{
+  height: 400px;
+  width: 100%;
+}
+.product-card{
+  height: 300px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.cartProduct{
+  margin-left: 200px;
+}
+.product-image{
+  width:100%;
+  height: 200px;
+  overflow: hidden;
+}
+.product-list{
+  margin-top: 10px;
+  height: 100px;
+  margin-left: 50px;
+}
+.textfield{
+  font-size: 20px;
+}
+.image-dialog-box{
+  border: 1px solid gray;
+  margin: 10px 170px 10px 170px
+}
+.dialog-img{
+  height: 100px;
+  margin: 5px 50px 5px 50px;
+}
+.closeIcon{
+  margin-top: 10px;
+  margin-left: 570px;
+  right: 0px;
+  font: 100px;
+}
+.createIcon{
+  margin-left: 162px;
+}
+.footer{
+  margin-left: 210px;
+}
+.product-buttons{
+  margin: 10px
+}
+.add-product{
+  margin-left: 480px;
+  margin-top: 80px;
+  border: 1px solid gray;
+  height: 250px;
+}
+.buttons{
+  margin-left: 120px;
+  margin-top: 20px;
+}
+.dialog-textfield{
+  margin-left: 200px;
+}
+.dialog-buttons{
+  margin-left: 200px;
+}
